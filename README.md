@@ -4,7 +4,7 @@
 
 # Neos Cache Management Backend Module
 
-[![Screenshot of the Cache Management Module](Documentation/BackendScreenshot.png)]
+![Screenshot of the Cache Management Module](Documentation/BackendScreenshot.png)
 
 This [Neos](https://www.neos.io) backend module provides cache management functions to Neos administrators. In this
 early version, the backend module simply allows for flushing the content cache (TYPO3_TypoScript_Content).
