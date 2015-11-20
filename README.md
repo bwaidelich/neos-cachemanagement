@@ -1,6 +1,5 @@
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
-![Packagist][packagist]
-[packagist]: https://img.shields.io/packagist/v/flownative/neos-cachemanagement.svg
+[![Latest Stable Version](https://poser.pugx.org/flownative/neos-cachemanagement/version)](https://packagist.org/packages/flownative/neos-cachemanagement)
 
 # Neos Cache Management Backend Module
 
